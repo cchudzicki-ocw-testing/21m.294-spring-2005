@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, requirements,
+  textbooks, papers and projects, quizzes and exams, academic honesty, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments, including
+  two papers and a final research project.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

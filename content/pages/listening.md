@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section presents the required listening for the course. Samples
+  of many selections are provided by links to Calabash Music (a fair trade distributor)
+  and Amazon.com.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Listening

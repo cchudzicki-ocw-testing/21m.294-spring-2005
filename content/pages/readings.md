@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section presents a complete reading list for the course, followed
+  by a table listing the particular assigned readings for each lecture session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

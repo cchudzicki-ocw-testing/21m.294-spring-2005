@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides a study guide for the midterm exam.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
